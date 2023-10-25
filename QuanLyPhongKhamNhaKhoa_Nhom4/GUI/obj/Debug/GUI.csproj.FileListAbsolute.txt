@@ -1,0 +1,139 @@
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataDichVu.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataHoSo.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataBenhNhan.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataKhamChua.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataPhieuKhamChua.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataLichHen.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhanVien.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataQuanLyThuChi.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Form1.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.FormHome.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Login.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNguoiDung.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.ThemLoaiDichVu.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.exe.config
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.exe
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.pdb
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\System.Data.SqlServerCe.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.pdb
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.dll.config
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.pdb
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.dll.config
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.xml
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.exe
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.pdb
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataTiepDonBenhNhan.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataQuanLyNguoiDung.resources
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhomNguoiDung.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataDichVu.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataHoSo.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataBenhNhan.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataKhamChua.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataPhieuKhamChua.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataLichHen.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhanVien.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhomNguoiDung.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataQuanLyThuChi.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataTiepDonBenhNhan.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.FormHome.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Login.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNguoiDung.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.ThemLoaiDichVu.resources
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.exe.config
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.exe
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.pdb
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.pdb
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.dll.config
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.pdb
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.dll.config
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.xml
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.exe
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.pdb
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataDichVu.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataHoSo.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataBenhNhan.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataKhamChua.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataPhieuKhamChua.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataLichHen.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhanVien.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhomNguoiDung.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataQuanLyThuChi.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataTiepDonBenhNhan.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Form1.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.FormHome.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Login.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNguoiDung.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.ThemLoaiDichVu.resources
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.exe
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\BUS.dll.config
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\DAL.dll.config
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.ChonBenhNhan.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.ChonNhanVien.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataDichVu.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataHoSo.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataBenhNhan.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataKhamChua.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataPhieuKhamChua.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataLichHen.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhanVien.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNhomNguoiDung.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataQuanLyThuChi.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataTiepDonBenhNhan.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.FormHome.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Login.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.DataNguoiDung.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.ThemLoaiDichVu.resources
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\GUI\obj\Debug\GUI.TroGiup.resources

@@ -1,0 +1,60 @@
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll.config
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.pdb
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.pdb
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll.config
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.xml
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.dll
+D:\Downloads\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.pdb
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll.config
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.pdb
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.pdb
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll.config
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.xml
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.dll
+C:\Users\ducye\Documents\Zalo Received Files\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.pdb
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll.config
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.pdb
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.dll
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.pdb
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll.config
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.xml
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.dll
+D:\Downloads\demo (1)\QuanLyPhongKhamNhaKhoa_Nhom4\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll.config
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\DAL.dll.config
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\DoAnQuanLyNhaKhoa\QuanLyPhongKhamNhaKhoa_Nhom4\BUS\obj\Debug\BUS.pdb
